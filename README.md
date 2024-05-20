@@ -1,4 +1,4 @@
-# Neural netwoeks development
+# Neural networks development
 
 In this repository are implemented two neural networks. Respectively focused on:
 1. Image Classification
